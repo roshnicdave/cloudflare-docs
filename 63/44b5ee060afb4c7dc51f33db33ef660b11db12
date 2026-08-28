@@ -1,0 +1,19 @@
+src/content/docs/network-interconnect/maintenance.mdx
+  s_dc18b155d01254::t_5e7c3af17a6071 1-31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "6344b5ee060afb4c7dc51f33db33ef660b11db12",
+  "prompts": {},
+  "sessions": {
+    "s_dc18b155d01254": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0094b6e5effe2Lp1CGquleKdG3",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "Roshni Dave <rdave@cloudflare.com>"
+    }
+  }
+}
